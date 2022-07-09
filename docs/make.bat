@@ -28,7 +28,11 @@ if "%1" == "github" (
     %SPHINXBUILD% -M html %SOURCEDIR% %BUILDDIR% %SPHINXOPTS%
     robocopy %BUILDDIR%/html ../docs /E > nul
     echo.Generated files copied to ../docs
+	%SPHINXBUILD% -M latexpdf %SOURCEDIR% %BUILDDIR% %SPHINXOPTS%
+    robocopy %BUILDDIR%/latex/*.pdf ../docs /E > nul
+    echo.Generated PDF copied to ../docs
     goto end
+	
 )
 
 %SPHINXBUILD% -M %1 %SOURCEDIR% %BUILDDIR% %SPHINXOPTS% %O%
