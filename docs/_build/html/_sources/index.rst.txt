@@ -17,6 +17,8 @@
 BioAmp EXG Pill Documentation
 ##################################
 
+|
+
 .. toctree::
    :maxdepth: 2
    :caption: Contents:
