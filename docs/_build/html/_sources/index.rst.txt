@@ -17,6 +17,10 @@
 BioAmp EXG Pill Documentation
 ##################################
 
+Welcome to BioAmp EXG Pill Documentation (version: v1.0)
+
+|
+
 .. toctree::
    :maxdepth: 2
    :caption: Contents:
