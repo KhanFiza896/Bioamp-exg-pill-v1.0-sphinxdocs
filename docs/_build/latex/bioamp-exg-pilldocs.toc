@@ -1,0 +1,36 @@
+\babel@toc {english}{}\relax 
+\contentsline {chapter}{\numberline {1}Introduction}{2}{chapter.1}%
+\contentsline {section}{\numberline {1.1}Software}{7}{section.1.1}%
+\contentsline {section}{\numberline {1.2}Hardware}{8}{section.1.2}%
+\contentsline {subsection}{\numberline {1.2.1}BioAmp\sphinxhyphen {}EXG\sphinxhyphen {}Pill Dimensions \& Schematic}{10}{subsection.1.2.1}%
+\contentsline {chapter}{\numberline {2}Applications}{11}{chapter.2}%
+\contentsline {section}{\numberline {2.1}Electrocardiography}{11}{section.2.1}%
+\contentsline {subsection}{\numberline {2.1.1}\sphinxstylestrong {Detecting heartbeats with BioAmp EXG Pill \& Arduino Nano}}{11}{subsection.2.1.1}%
+\contentsline {subsection}{\numberline {2.1.2}\sphinxstylestrong {1. Chest ECG heartbeat detection}}{12}{subsection.2.1.2}%
+\contentsline {subsection}{\numberline {2.1.3}\sphinxstylestrong {2. Hand EKG heartbeat detection}}{13}{subsection.2.1.3}%
+\contentsline {subsection}{\numberline {2.1.4}\sphinxstylestrong {References}}{13}{subsection.2.1.4}%
+\contentsline {section}{\numberline {2.2}Electroencephalography}{14}{section.2.2}%
+\contentsline {subsection}{\numberline {2.2.1}\sphinxstylestrong {Creating Electroencephalograph With BioAmp EXG Pill}}{14}{subsection.2.2.1}%
+\contentsline {subsection}{\numberline {2.2.2}\sphinxstylestrong {Frontal EEG Recording}}{16}{subsection.2.2.2}%
+\contentsline {subsection}{\numberline {2.2.3}\sphinxstylestrong {References}}{16}{subsection.2.2.3}%
+\contentsline {section}{\numberline {2.3}Electromyography}{16}{section.2.3}%
+\contentsline {subsection}{\numberline {2.3.1}\sphinxstylestrong {How to Create an Electromyograph with BioAmp EXG Pill?}}{17}{subsection.2.3.1}%
+\contentsline {subsection}{\numberline {2.3.2}\sphinxstylestrong {Example EMG Projects with BioAmp EXG Pill}}{19}{subsection.2.3.2}%
+\contentsline {subsection}{\numberline {2.3.3}\sphinxstylestrong {References}}{19}{subsection.2.3.3}%
+\contentsline {section}{\numberline {2.4}Electrooculography}{20}{section.2.4}%
+\contentsline {subsection}{\numberline {2.4.1}\sphinxstylestrong {How to Create an Electrooculograph With BioAmp EXG Pill?}}{20}{subsection.2.4.1}%
+\contentsline {subsection}{\numberline {2.4.2}\sphinxstylestrong {Recording Horizontal Eye Movement}}{22}{subsection.2.4.2}%
+\contentsline {subsection}{\numberline {2.4.3}\sphinxstylestrong {Recording Vertical Eye Movement}}{22}{subsection.2.4.3}%
+\contentsline {subsection}{\numberline {2.4.4}\sphinxstylestrong {Eye\sphinxhyphen {}Blink Detection}}{22}{subsection.2.4.4}%
+\contentsline {subsection}{\numberline {2.4.5}\sphinxstylestrong {References}}{23}{subsection.2.4.5}%
+\contentsline {chapter}{\numberline {3}Software}{24}{chapter.3}%
+\contentsline {section}{\numberline {3.1}ECG Software}{24}{section.3.1}%
+\contentsline {section}{\numberline {3.2}EEG Software}{24}{section.3.2}%
+\contentsline {section}{\numberline {3.3}EMG Software}{24}{section.3.3}%
+\contentsline {section}{\numberline {3.4}EOG Software}{24}{section.3.4}%
+\contentsline {chapter}{\numberline {4}Hardware}{26}{chapter.4}%
+\contentsline {section}{\numberline {4.1}Arduino}{26}{section.4.1}%
+\contentsline {section}{\numberline {4.2}ESP32}{26}{section.4.2}%
+\contentsline {section}{\numberline {4.3}RPi Pico}{26}{section.4.3}%
+\contentsline {section}{\numberline {4.4}STM32}{27}{section.4.4}%
+\contentsline {section}{\numberline {4.5}BBBW}{27}{section.4.5}%
