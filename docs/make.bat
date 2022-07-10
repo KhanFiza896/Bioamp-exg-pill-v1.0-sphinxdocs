@@ -32,7 +32,6 @@ if "%1" == "github" (
     robocopy %BUILDDIR%/latex/Bioamp-exg-pilldocs.pdf ../docs /E > nul
     echo.Generated PDF copied to ../docs
     goto end
-	
 )
 
 %SPHINXBUILD% -M %1 %SOURCEDIR% %BUILDDIR% %SPHINXOPTS% %O%
