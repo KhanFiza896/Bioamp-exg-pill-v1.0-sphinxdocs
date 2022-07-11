@@ -113,7 +113,7 @@ html_context = {
 
 # if tags.has("publish"): 
 #   reference_prefix = f"/{version}" if is_release else "/latest"
-# docs_title = "BioampDocs / {}".format(version if is_release else "Latest")
+# docs_title = "docs / {}".format(version if is_release else "Latest")
 
 
 
