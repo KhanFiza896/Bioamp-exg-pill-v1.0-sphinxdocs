@@ -17,7 +17,7 @@
 BioAmp EXG Pill Documentation
 ##################################
 
-Welcome to BioAmp EXG Pill Documentation (version: v1.0)
+Welcome to BioAmp-EXG-Pill Documentation
 
 |
 
